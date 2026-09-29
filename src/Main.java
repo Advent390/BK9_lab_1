@@ -11,7 +11,6 @@ import strategy.RangedAttackStrategy;
 public class Main {
     public static void main(String[] args) {
         /*
-         * Тема: «Система керування відеогрою».
          * Factory — створення персонажів.
          * Strategy — вибір способу атаки.
          * Observer — повідомлення про ігрові події.
